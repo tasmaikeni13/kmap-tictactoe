@@ -144,7 +144,7 @@ This architecture produces **mathematically perfect play**:
 
 | Feature | Description |
 |---|---|
-| 🎨 **Modern Gen-Z GUI** | Sleek CustomTkinter interface with smooth aesthetics |
+| 🎨 **Modern GUI** | Sleek CustomTkinter interface with smooth aesthetics |
 | 🌗 **Dark / Light Theme** | Toggle between dark and light modes on the fly |
 | ✨ **Neon Glow Animations** | X and O marks render with glowing neon effects |
 | 🎆 **Win Celebrations** | Animated confetti bursts and pulsing win-line effects |
@@ -160,7 +160,7 @@ This architecture produces **mathematically perfect play**:
 
 > 🔊 **Note about sound:**  
 > Sound effects use the built-in Windows audio backend.  
-> On macOS/Linux the game runs fully but without sound.
+> On macOS/Linux the game runs fully but sound MAY not work.
 
 ---
 
